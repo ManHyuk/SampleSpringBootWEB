@@ -1,6 +1,7 @@
 package com.web.boot;
 
 
+
 import com.web.boot.domain.Board;
 import com.web.boot.domain.User;
 import com.web.boot.domain.enums.BoardType;
